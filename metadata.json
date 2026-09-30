@@ -1,0 +1,6 @@
+{
+  "name": "Capacity Connect — Digital Capacity Building Portal",
+  "description": "Smart India Hackathon solution showcase for Capacity Connect: A centralized digital capacity-building and learning management portal connecting trainees, trainers, and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
